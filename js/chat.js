@@ -241,7 +241,7 @@ var possibleInput = {
         return
     },
     "mèo": function () {
-        responseText("<video class='videoplay' controls><source src='../video/323989268_131750826421010_3573385266614632209_n.mp4' type='video/mp4'></video>");
+        responseText("<video class='videoplay' controls><source src='video/323989268_131750826421010_3573385266614632209_n.mp4' type='video/mp4'></video>");
         responseText("<video class='videoplay'  controls><source src='/video/334111852_5981928015261133_8310218975508528952_n.mp4' type='video/mp4'></video>");
         responseText("<video class='videoplay'  controls><source src='/video/335C3285-48BC-4715-A3F0-D251F86A303C.mov' type='video/mp4'></video>");
         commandReset(7);
